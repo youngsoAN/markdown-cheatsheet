@@ -1,8 +1,8 @@
-Markdown Cheatsheet<a name="TOP"></a>
+Markdown Cheatsheet - 안소영
 ===================
 
 - - - - 
-# Heading 1 #
+# 제1 제목 #
 
     Markup :  # Heading 1 #
 
@@ -10,7 +10,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제2 제목 ##
 
     Markup :  ## Heading 2 ##
 
